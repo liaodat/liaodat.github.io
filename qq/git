@@ -1,0 +1,5 @@
+git init
+igt remote add origin https://liaodat.github.io.git
+git add .
+git commit-m "liaodat"
+git push origin master
